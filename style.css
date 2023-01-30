@@ -98,6 +98,7 @@ body {
     line-height: 25px;
     font-size: 1.4rem;
     color: var(--dark-blue);
+    margin-top: 0.5rem;
 }
 
 .content-info-descrip {
